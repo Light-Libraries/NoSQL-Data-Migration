@@ -1,0 +1,6 @@
+{
+    "databases":[
+        "itsdb-production",
+        "itsdb-staging"
+    ]
+}
